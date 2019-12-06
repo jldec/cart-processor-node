@@ -1,0 +1,10 @@
+{
+  "name": "cart-processor-node",
+  "version": "1.0.0",
+  "description": "riff process 2 streams forever",
+  "main": "cart-processor.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
